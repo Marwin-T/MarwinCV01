@@ -1,2 +1,3 @@
 WorkShop2_1 
-<img width="1888" height="867" alt="image" src="https://github.com/user-attachments/assets/838b76e8-2b53-4f0e-91a5-4ab2ebaee094" />
+<img width="1918" height="891" alt="image" src="https://github.com/user-attachments/assets/a36d485e-61a9-44d4-a024-230fd518fbcd" />
+
